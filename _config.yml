@@ -11,6 +11,7 @@ url: "https://namikaze7.github.io"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
+markdown: kramdown
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
